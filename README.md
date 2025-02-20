@@ -41,3 +41,5 @@ Instalación y Ejecución 🛠️
   1. Clona este repositorio en tu computadora.
   2. Abre el archivo index.html en tu navegador.
   ¡Listo! Ya puedes usar la aplicación.
+
+[Ver video de demostración](funcionamiento-app.mp4)
